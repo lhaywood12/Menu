@@ -1,0 +1,22 @@
+label {
+    display: block;
+    /*border: 3px solid green;*/
+    text-align: center;
+    font-size: 20px;
+    padding: 7px;
+}
+
+.top-header {
+    /*border: 3px solid pink;*/
+    text-align: center;
+    font-size: 35px;
+    background: rgb(69, 69, 236);
+    padding: 30px;
+}
+
+h2 {
+    /*border: 3px solid blue;*/
+    text-align: center;
+    font-size: 29px;
+}
+
